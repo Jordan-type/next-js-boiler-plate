@@ -5,7 +5,7 @@ export default function Footer() {
         href=''
         target='_blank'
         rel='noopener noreferrer'>
-        Learn Solidity and be a world class web3 Dev at{" "}
+        Learn Solidity and be a world class Developer @{" "}
         <span className=''>Continuum Block</span>
       </a>
     </footer>
